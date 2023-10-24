@@ -1,5 +1,7 @@
 # Prompt engineering examples for FOSS4GNA 2023 
 
+Running an Large Language Model locally let's you play with the latest models! Learn by doing.
+
 ## Hardware Prerequisites
 
 - OS – recent version of macOS, or Linux
@@ -67,7 +69,7 @@ If you are familiar with Python, using a Jupyter notebook provides an option to 
 3. We will use Anaconda Navigator: https://docs.anaconda.com/free/anaconda/getting-started/#navigator-tutorials
 4. Open Anaconda Navigator https://docs.anaconda.com/free/navigator/getting-started/#starting-navigator
 5. In Navigator, launch JupyterLab. It will open a page in a browser.
-6. In the Jupyter page choose New > Python 3 (ipykernel)
+6. In the Jupyter page choose `New` **>** `Python3` (ipykernel)
 7. In the first cell, paste the following to install langchain, then choose Run.
 
 ```
@@ -88,26 +90,19 @@ llm("Why is the sky blue?")
 
 ## Prompt Engineering Resources
 
-- DAIR.AI Prompt Engineering Guide
-https://www.promptingguide.ai/
+- [DAIR.AI Prompt Engineering Guide](https://www.promptingguide.ai/)
 
-- Anthropics Introduction to Prompt Design
-https://docs.anthropic.com/claude/docs/introduction-to-prompt-design
+- [Anthropics Introduction to Prompt Design](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design)
 
-- AI21 Prompt Engineering
-https://docs.ai21.com/docs/prompt-engineering
+- [AI21 Prompt Engineering](https://docs.ai21.com/docs/prompt-engineering)
 
-- SageMaker Documentation – Prompt Engineering for FMs
-https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-prompt-engineering.html
+- [SageMaker Documentation – Prompt Engineering for FMs](https://docs.aws.amazon.com/sagemaker/latest/dg/jumpstart-foundation-models-customize-prompt-engineering.html)
 
-- Amazon Bedrock Workshop
-https://github.com/aws-samples/amazon-bedrock-workshop/
+- [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop/)
 
-- Amazon Bedrock Prompting samples
-https://github.com/aws-samples/amazon-bedrock-prompting
+- [Amazon Bedrock Prompting samples](https://github.com/aws-samples/amazon-bedrock-prompting)
 
-- Prompt Engineering Playground with SageMaker
-https://github.com/aws-samples/prompt-engineering-playground-with-sagemaker
+- [Prompt Engineering Playground with SageMaker](https://github.com/aws-samples/prompt-engineering-playground-with-sagemaker)
 
 # Try it out
 
